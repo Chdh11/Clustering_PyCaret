@@ -1,0 +1,4 @@
+,Clustering Techniques,Silhouette,Calinski-Harabasz,Davies-Bouldin,Performance Score,Rank
+0,Kmeans,8.5537,1411311.948,35.1797,0.9232496542144777,1.0
+1,Agglomerative,8.2,1262894.827,38.5362,0.8752650243507095,2.0
+2,Density-Based Spatial,-9.7184,260.3716,28.2396,0.10987335707346772,3.0
